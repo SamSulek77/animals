@@ -3,3 +3,6 @@ conan
 oyen
 bolat
 brusko
+Rocky
+scooby
+garfield
